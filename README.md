@@ -6,7 +6,7 @@
 ## 🔥 WEB-KILLER v2.1 - Comprehensive Tool Overview
 ***📌 EXECUTIVE SUMMARY***
 
-WEB-KILLER is an advanced, multi-threaded network stress testing and DDoS simulation toolkit engineered for cybersecurity professionals, penetration testers, and network security researchers. Built entirely in Python 3, it provides 57 unique attack methods spanning Layer 7 (Application), Layer 4 (Transport), and amplification vectors, making it one of the most comprehensive open-source stress testing frameworks available.
+WEB-KILLER is an advanced, multi-threaded network stress testing and DDoS toolkit engineered for cybersecurity professionals, penetration testers, and network security researchers. Built entirely in Python 3, it provides 57 unique attack methods spanning Layer 7 (Application), Layer 4 (Transport), and amplification vectors, making it one of the most comprehensive stress testing frameworks available.
 
 The tool is designed to simulate real-world DDoS attack scenarios for authorized security assessments, helping organizations test their infrastructure resilience, WAF configurations, and DDoS mitigation strategies.
 
